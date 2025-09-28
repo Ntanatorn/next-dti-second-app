@@ -1,0 +1,8 @@
+export default function Pade() {
+  return (
+    <main>
+      <h1>DTI normal (ภาคปกติ)</h1>
+      <hr /><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut sequi repellat et ut minima optio aspernatur ducimus veniam quos dignissimos.</p>
+    </main>
+  );
+}
